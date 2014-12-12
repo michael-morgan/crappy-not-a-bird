@@ -1,0 +1,12 @@
+C:\Users\Michael\Documents\Visual Studio 2013\WebSites\CrappyNotABird\CrappyNotABird\bin\CreateJS BoilerPlate.dll.config
+C:\Users\Michael\Documents\Visual Studio 2013\WebSites\CrappyNotABird\CrappyNotABird\bin\CreateJS BoilerPlate.dll
+C:\Users\Michael\Documents\Visual Studio 2013\WebSites\CrappyNotABird\CrappyNotABird\bin\CreateJS BoilerPlate.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\WebSites\CrappyNotABird\CrappyNotABird\obj\Debug\CrappyNotABird.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2013\WebSites\CrappyNotABird\CrappyNotABird\obj\Debug\CreateJS BoilerPlate.dll
+C:\Users\Michael\Documents\Visual Studio 2013\WebSites\CrappyNotABird\CrappyNotABird\obj\Debug\CreateJS BoilerPlate.pdb
+C:\Users\Michael\Documents\GitHub\crappy-not-a-bird\CrappyNotABird\bin\CreateJS BoilerPlate.dll.config
+C:\Users\Michael\Documents\GitHub\crappy-not-a-bird\CrappyNotABird\bin\CreateJS BoilerPlate.dll
+C:\Users\Michael\Documents\GitHub\crappy-not-a-bird\CrappyNotABird\bin\CreateJS BoilerPlate.pdb
+C:\Users\Michael\Documents\GitHub\crappy-not-a-bird\CrappyNotABird\obj\Debug\CrappyNotABird.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\crappy-not-a-bird\CrappyNotABird\obj\Debug\CreateJS BoilerPlate.dll
+C:\Users\Michael\Documents\GitHub\crappy-not-a-bird\CrappyNotABird\obj\Debug\CreateJS BoilerPlate.pdb
